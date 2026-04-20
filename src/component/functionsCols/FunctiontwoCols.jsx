@@ -9,7 +9,7 @@ const FunctiontwoCols = () => {
     <>
     <div className="functiontwoSec">
 <div className="container">
-    <h4 className='text-center'>Why rent out your space with JustPark?</h4>
+    <h4 className='text-center'>Why rent out your space with Parkly?</h4>
 
 <div className="row">
     <div className="col-lg-4">

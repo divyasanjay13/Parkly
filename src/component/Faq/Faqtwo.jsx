@@ -22,7 +22,7 @@ const Faqtwo = () => {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>Is my space eligible to be listed on JustPark?</Accordion.Header>
+          <Accordion.Header>Is my space eligible to be listed on Parkly?</Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -70,7 +70,7 @@ const Faqtwo = () => {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="5">
-          <Accordion.Header>How do JustPark make money?</Accordion.Header>
+          <Accordion.Header>How do Parkly make money?</Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

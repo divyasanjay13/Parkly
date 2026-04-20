@@ -3,7 +3,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 import { Link } from 'react-router-dom';
-import logo from '../../assets/images/logo.png';
+import logo from '../../assets/images/parkly-logo.png';
 import { Navbar, Nav, Button} from 'react-bootstrap';
 import './HeaderComp.css';
 

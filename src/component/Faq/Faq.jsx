@@ -10,7 +10,7 @@ const Faq = () => {
                 <div className="questions">
         <Accordion defaultActiveKey="0">
           <Accordion.Item eventKey="0">
-            <Accordion.Header>How does JustPark make money?</Accordion.Header>
+            <Accordion.Header>How does Parkly make money?</Accordion.Header>
             <Accordion.Body>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

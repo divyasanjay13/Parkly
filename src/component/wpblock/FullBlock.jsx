@@ -6,7 +6,7 @@ const FullBlock = () => {
     <>
     <h2>Say goodbye to inaccurate data, time-consuming admin <br />& stagnant parking rates.
     </h2>
-    <p>JustPark’s cutting-edge parking solutions bring clarity, efficiency and revenue optimisation to your business. Experience the difference for yourself by switching to our suite of integrated solutions.</p>
+    <p>Parkly’s cutting-edge parking solutions bring clarity, efficiency and revenue optimisation to your business. Experience the difference for yourself by switching to our suite of integrated solutions.</p>
     </>
   )
 }

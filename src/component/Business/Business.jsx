@@ -50,8 +50,8 @@ const Business = () => {
       <PartnerBlock
         partnername="Gavin Povey"
         partnergroup="Group Nexus"
-        paraline1="We have now been working with JustPark for a number of years… we have found the performance and service of JustPark to be superior in terms of both revenue generation and booking numbers."
-        paraline2="On average, from a total sample size of circa 1,500 bookings, the number of pre-booked events JustPark achieved was on average circa 100% higher than competitors. Bookings peaked at 183% higher on one site with the lowest being 42% higher."
+        paraline1="We have now been working with Parkly for a number of years… we have found the performance and service of Parkly to be superior in terms of both revenue generation and booking numbers."
+        paraline2="On average, from a total sample size of circa 1,500 bookings, the number of pre-booked events Parkly achieved was on average circa 100% higher than competitors. Bookings peaked at 183% higher on one site with the lowest being 42% higher."
       />
 
       <Combinedfunc
@@ -69,7 +69,7 @@ const Business = () => {
       <PartnerBlock
         partnername="Stefanie Hardy"
         partnergroup="Victoria Park Plaza Hotel"
-        paraline1="We have worked with JustPark for around 3 years – have always found them very proactive and approachable. The site is extremely well laid out and easy to find information with analysis. I would recommend them as a partner to enhance the revenue of parking spaces."
+        paraline1="We have worked with Parkly for around 3 years – have always found them very proactive and approachable. The site is extremely well laid out and easy to find information with analysis. I would recommend them as a partner to enhance the revenue of parking spaces."
       />
 
       <Combinedfunc

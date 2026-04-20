@@ -10,7 +10,7 @@ const Reviews = () => {
         <div className="container">
             <div className="headingreviews">
             <h4>What drivers say about us</h4>
-            <p><strong>JustPark rated “excellent” on independent review website, Trustpilot.</strong></p>
+            <p><strong>Parkly rated “excellent” on independent review website, Trustpilot.</strong></p>
             <p>Read real reviews from real customers on www.trustpilot.com.</p>
             <div className="trustedstars">
             <TrustedStars />

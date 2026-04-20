@@ -30,7 +30,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -40,7 +40,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -50,7 +50,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -60,7 +60,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -70,7 +70,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -80,7 +80,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -90,7 +90,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter
@@ -100,7 +100,7 @@ export default function SliderFeatured() {
             <swiper-slide>
                 <div className="greenbg">
                     <div className="customer_comments">
-                        <p><span>JustPark has been instrumental in making St John’s a central hub of the community once again.</span></p>
+                        <p><span>Parkly has been instrumental in making St John’s a central hub of the community once again.</span></p>
                     </div>
                     <p className="customername">
                     Rev Graham Hunter

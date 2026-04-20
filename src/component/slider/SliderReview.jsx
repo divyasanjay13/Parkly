@@ -30,7 +30,7 @@ export default function SliderReview() {
                 <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span className='comment_client'>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -40,7 +40,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -50,7 +50,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -60,7 +60,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -70,7 +70,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -80,7 +80,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -90,7 +90,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -100,7 +100,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>
@@ -110,7 +110,7 @@ export default function SliderReview() {
             <div className="slider_review">
                  <div className="location_text">
                  <span className='name'><b>Caroline S </b>  </span>
-                 <span className='company_name'>JustParked at</span>
+                 <span className='company_name'>Parklyed at</span>
                  <span className='fairname'> Q Park Mayfair Car Park</span>
                  </div>
                  <span>"Easy to follow instructions. Plenty of parking spaces and very secure Would highly recommend."</span>

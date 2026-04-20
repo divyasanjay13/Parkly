@@ -16,7 +16,7 @@ const TwoCols = () => {
 
                 <p>
                   Rated 5 stars with an average satisfaction rating of 96%,
-                  JustPark is the US's favorite parking service. But don’t just
+                  Parkly is the US's favorite parking service. But don’t just
                   take our word for it – check out some of the latest customer
                   reviews below for our London parking spaces.
                 </p>

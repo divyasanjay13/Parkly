@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Navbar, Nav, Button,Container,Offcanvas } from "react-bootstrap";
 import "./HeaderTwo.css";
-import logo from "../../assets/images/logo.png";
+import logo from "../../assets/images/parkly-logo.png";
 import { IoIosArrowDown } from "react-icons/io";
 import { Link } from "react-router-dom";
 import { BsPersonWorkspace } from "react-icons/bs";

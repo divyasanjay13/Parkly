@@ -8,7 +8,7 @@ const Timeline = () => {
    <div className="timelineSec">
     <div className="container">
         <div className="headingtimeline text-center">
-            <h4>Being a JustPark host</h4>
+            <h4>Being a Parkly host</h4>
             <h5>Turn your driveway into a simple, passive source of income.</h5>
         </div>
         <div className="timeline_content mt-5">

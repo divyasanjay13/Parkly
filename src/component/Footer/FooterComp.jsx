@@ -2,7 +2,7 @@ import React from "react";
 import DownloadLinks from "../appdownloadicon/DownloadLinks";
 import "./FooterComp.css";
 import { Navbar, Row, Col, Dropdown } from "react-bootstrap";
-import logo from "../../assets/images/logo.png";
+import logo from "../../assets/images/parkly-logo.png";
 
 import { FaFacebookF } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
