@@ -1,0 +1,31 @@
+.reserveSec {
+    margin-bottom: 80px;
+}
+.reserveSec p{
+    font-weight: 500;
+    padding: 0px 40px;
+}
+.reserveSec h2{
+    font-weight: 700;
+    padding: 0px 100px;
+    margin-bottom: 40px;
+}
+
+.reserveSec h5{
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.fa-arrow-right{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+@media screen and (max-width:991px){
+    .reserveSec h2{
+        padding: 0px;
+    }
+    .reserveSec img{
+        max-width: 100%;
+            }
+}

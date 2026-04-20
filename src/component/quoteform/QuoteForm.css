@@ -1,0 +1,87 @@
+.quoteformSec{
+    padding: 15px 0px;
+    margin-bottom: 50px;
+}
+
+.quoteformSec h2{
+    font-weight: 700;
+    line-height: 52px;   
+    text-align: center;
+    padding: 30px 100px;
+}
+
+.quoteformSec .greenbg h4{
+    font-weight: 700;
+    line-height: 32px;
+}
+.padding-in {
+    padding: 0px 100px;
+}
+.quotebtns{   
+    column-gap: 10px;
+}
+.quotebtns .btn-green{
+    width: 100%;
+}
+
+.quotebtns .btntwo {
+    width: 100%;
+    border:1px solid var(--green);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background: none;
+    color: var(--green);
+}
+
+
+.quotebtns .btntwo:hover{
+    box-shadow: 1px 1px 5px 1px var(--boxshadow-color);
+    border: 1px solid var(--boxshadow-color);
+    cursor: pointer;
+}
+
+.quoteformSec .greenbg {
+    padding: 30px 60px;
+}
+
+.quoteformSec .form-control{
+    font-size: 14px;
+    color: var(--grey);
+    border: none;
+    padding: 12px 20px;
+}
+.quoteformSec .form-control:focus{
+   box-shadow: none;
+   border-color: var(--green);
+}
+
+@media screen and (max-width:1250px){
+    .quotebtns .btn-green {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .quoteformSec .greenbg {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width:991px){
+        .quoteformSec .greenbg {
+        padding: 18px;
+    }
+    .padding-in{padding: 0px;}
+  
+    .quoteformSec h2 {
+        line-height: 45px;
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width:576px){
+        .quoteformSec .greenbg {
+        padding: 16px;
+    }    
+}

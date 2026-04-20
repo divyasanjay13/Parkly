@@ -1,0 +1,75 @@
+.BookSec{
+    margin-bottom: 50px;
+}
+
+.headingOfBook h3 {
+  font-weight: 600;
+  line-height: 42px;
+  margin-bottom: 30px;
+}
+
+.BookSec .imageforBook .image1forbookparkinghover {
+  opacity: 0;
+  object-fit: contain;
+  object-position: 50% 50%;
+  width: 100%;
+  transition: opacity 0.2s;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.BookSec .imageforBook .image1forbookparking {
+  object-fit: contain;
+  object-position: 50% 50%;
+  width: 100%;
+  max-width: none;
+}
+
+.BookSec .imageforBook .image1forbookparkinghover:hover {
+  opacity: 1;
+}
+
+.BookSec .imageforBook {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.BookSec .imagepart {
+  text-align: center;
+  background-color: transparent;
+  border-radius: 0.5rem;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 1rem 1.5rem 0;
+  font-family: Nunitosans, sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  display: flex;
+  position: relative;
+}
+
+.BookSec .textforbook{    
+    padding: 10px 24px;
+}
+
+.BookSec .textforbook h4{
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+
+.BookSec .textforbook p{
+    line-height: 27px;
+}
+
+.BookSec .textforbook{
+    text-align: center;
+    margin-top: 30px;
+}

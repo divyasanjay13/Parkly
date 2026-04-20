@@ -1,0 +1,31 @@
+.functiontwoSec{
+margin-bottom: 50px;
+}
+.functiontwoSec h4{
+    font-weight: 700;
+    margin-bottom: 30px;
+
+}
+
+.functiontwoSec .col_func .text-part{
+    text-align: center;
+    
+}
+.functiontwoSec .col_func .text-part h6{
+    font-weight: 600;
+    line-height: 30px;
+}
+.functiontwoSec .col_func .text-part p{
+    color: var(--grey);
+    font-size: 14px !important;
+}
+
+.functiontwoSec .col_func .img-part{
+    border-right: 1px solid #cccccca2;
+}
+
+@media screen and (max-width:991px){
+    .functiontwoSec .col_func .img-part {
+        border: none;
+    }
+}

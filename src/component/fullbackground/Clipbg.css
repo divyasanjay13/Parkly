@@ -1,0 +1,82 @@
+.background_clipSec {  position: relative;  width: 100%;  height: 900px;  }  
+  .background_image {  background: url("../../assets/images/fullbg1.jpg");  width: 100%;  height: 100%;  background-size: cover; background-position: center;  background-repeat: no-repeat; transform: scaleX(-1); }  
+  .background_clipSec::before {  content: '';  z-index: 1;   position: absolute;    top: 0;    left: 0;    right: 0;    bottom: 0;     clip-path: polygon(0% 0%, 58% 0, 50% 51%, 58% 100%, 0 101%);   background: rgba(255,255,255,.9);  }
+  .background_clipSec .textbackground{ position: absolute; top: 30%; left: 0%; transform: translate(15%, 50%); z-index: 4; width: 550px;}
+  .background_clipSec .textbackground h3{
+    margin-bottom:24px;
+    color: var(--dark-green);
+    font-weight: 600;
+  }
+  a.btn-green {
+  
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 48px;
+    background: var(--green);
+    border: 3px solid transparent;
+    color: #fff;
+    padding: 7px 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+a.btn-green:hover{
+background: var(--white);
+box-shadow: 0 4px 12px rgba(126,190,208,.5);
+cursor: pointer;
+color: var(--green) !important;
+}
+
+@media screen and  (max-width:1250px){
+  .background_clipSec .textbackground {   
+    transform: translate(10%, 50%);   
+}
+.background_clipSec::before { 
+  clip-path: polygon(0% 0%, 77% 0, 60% 51%, 77% 100%, 0 101%);
+}
+}
+
+@media screen and (max-width:991px){
+  .background_clipSec .textbackground {   
+    transform: translate(10%, 50%);   
+}
+.background_clipSec::before { 
+  clip-path: polygon(0% 0%, 89% 0, 73% 51%, 89% 100%, 0 101%);
+}
+}
+
+
+@media screen and (max-width:767px){
+  .background_clipSec .textbackground {
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    max-width: 100%;
+    padding: 0px 33px;
+    text-align: center;
+}
+.background_clipSec::before {   
+  clip-path: none;
+    background: rgba(255, 255, 255, 0.903);
+}
+.background_clipSec{
+  height: 600px;
+}
+}
+
+@media screen and (max-width:567px){
+  .background_clipSec .textbackground {
+    top: 50%;
+    transform: translate(0%, -30%);
+    max-width: 100%;
+    padding: 0px 13px;
+}
+.background_clipSec::before {   
+  clip-path: none;
+    background: rgba(255, 255, 255, 0.903);
+}
+.background_clipSec{
+  height: 600px;
+}
+}

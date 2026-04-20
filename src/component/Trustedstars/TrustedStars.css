@@ -1,0 +1,39 @@
+.trustedblock{     height: 100%;   padding: 30px 30px;  border-right: 1px solid #ccc;}
+.stars {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+.icon_star{
+    display: flex;
+    align-items: center;
+    column-gap: 5px;    
+}
+.icon_star svg{
+    color: var(--greenstars);
+    font-size: 20px;
+}
+.clientStars{
+    margin: 8px 0px;
+}
+.icon_box{
+    width: 30px; height: 30px; display: flex; align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 20px;
+    background: var(--greenstars);
+    margin-right: 8px;
+}
+.icon_box.halfstar:last-child{
+    background: linear-gradient(to right, var(--greenstars) 0%, var(--greenstars) 50%, var(--grey-star) 50%, var(--grey-star) 100%);
+}
+.textpart {
+    text-align: center;
+}
+.textpart p{
+    line-height: 17px;
+}
+.textpart p span{
+    font-size: 12px;    
+}

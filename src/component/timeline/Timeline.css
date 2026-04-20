@@ -1,0 +1,61 @@
+.timelineSec{
+    padding: 90px 0px;
+}
+.timelineSec .headingtimeline h4{
+    font-weight: 700;
+    line-height: 27px;
+    
+}
+.timelineSec .headingtimeline h5{
+    font-weight: 700;
+    color: var(--gray-300);
+}
+
+.timelineSec .circle_image{
+    width: 250px;
+    height: 250px;
+    background: #000;
+    text-align: center;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.timelineSec .circle_image img{
+    object-fit: cover;
+}
+.timelineSec .arrows_survey{
+    width: 25%;
+    display: flex;
+    align-items: center;
+    margin: 0px 13px;
+    
+}
+.timelineSec .arrows_survey .line{
+    width: 100%;
+    height: 1px;
+    background: var(--dark-green);
+}
+
+.timelineSec .arrows_survey .circle_arrow{
+    border-radius: 100%;
+    width: 20px;
+    height: 18px;
+    background: var(--dark-green);
+}
+
+.timeline_content .surveydetails{
+    padding: 25px 0px;
+}
+
+.timeline_content .surveydetails h5{
+    font-weight: 700;
+}
+
+
+@media screen and (max-width:576px){
+    .timeline_content .surveydetails {
+        padding: 25px 9px;
+    }
+    .timelineSec {
+        padding: 45px 0px;
+    }
+}

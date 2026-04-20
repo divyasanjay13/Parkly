@@ -1,0 +1,27 @@
+
+
+swiper-container {    
+   text-align: center;
+}
+
+swiper-slide {  
+    color: #000;
+    font-size: 25px;
+}
+.slider_review{  
+    font-size: 12px;
+    padding: 20px 0px;   
+  
+}
+.slider_review .location_text span{
+   padding-bottom: 20px;
+   line-height: 30px;  
+}
+.slider_review .location_text span.fairname{  
+   color: var(--grey);  
+}
+
+.slider_review .location_text{
+    margin-bottom: 20px;
+}
+

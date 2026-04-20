@@ -1,0 +1,14 @@
+/* Links to Download the app  */
+.appLinks {  display: flex;  align-items: center;  gap: 24px;  justify-content: end;}
+.appLinks .store-buttons {  display: flex;  align-items: center;  justify-content: center;  padding: 5px 14px;  gap: 10px;  color: #000;  font-weight: 500; }
+.appLinks .store-buttons .text_icon{line-height: 15px;font-size: 10px;}
+.appLinks .app-store-button, .appLinks .google-play-button { border-radius: 5px; background-color: #fff; }
+.appLinks .app-store-button span, .appLinks .google-play-button span{  font-size: 17px;    font-weight: 600;}
+.appLinks .app-store-button:hover, .appLinks .google-play-button:hover {  opacity: 0.8;}
+
+@media screen and (max-width:576px){
+    .appLinks {      
+        flex-direction: column;
+        gap: 10px;     
+    }
+}

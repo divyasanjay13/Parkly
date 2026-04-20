@@ -1,0 +1,17 @@
+.fullblockSec{
+    padding:80px 0px;
+    background: #2e3946;
+    text-align: center;
+    color: var(--white);
+    margin-bottom: 60px;
+}
+
+.fullblockSec h2{
+    font-weight: 700;
+    line-height: 52px;
+    margin-bottom: 24px;     
+}
+
+@media screen and (max-widt:576px){
+   
+}

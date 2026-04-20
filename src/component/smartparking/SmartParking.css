@@ -1,0 +1,33 @@
+.smartparkSec{
+    text-align: center;
+    padding: 60px 30px;
+}
+.smartparkSec h2{
+    line-height: 62px;
+}
+.smartparkSec h1{
+    font-weight: 700;
+    line-height: 62px;
+}
+.smartparkSec h6{
+    margin: 24px 0px;
+    font-weight: 700;
+}
+
+@media screen and (max-width:991px){
+    .smartparkSec h2 {
+        line-height: 47px;
+    }
+    .smartparkSec h1 {  
+        line-height: 47px;
+    }
+    .smartparkSec {       
+        padding: 45px 30px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .smartparkSec img {
+        width: 120px;
+    }
+}

@@ -1,0 +1,76 @@
+
+.footer {  background: #1f2438;  width: 100%;  padding: 30px 0px;}
+/* Navbar logo invert: remove it  optional */
+.footer a.navbarLogo img {    mix-blend-mode: color-dodge;    filter: invert(1); margin-bottom: 20px;}
+/* Main Footer Links */
+.footer .links{    color: var(--white);}
+.footer .footerLinks{    color:var(--white);    padding: 10px 0px;}
+.footer .footerLinks li{    padding: 8px 0px;}
+.footer .footerLinks li a{    color: #fff;    font-size: 14px;    font-weight: 400;    }
+.footer .footerLinks li a:hover{    color: #20a637;}
+/* Contact Through Social Media Links:- */
+.footer .socialIcons{  display: flex;  height: 100%;}
+.footer .socialIcons .iconcircle{    width: 35px;    height: 35px;    background: var(--white);    border-radius: 99px;    display: flex;    align-items: center;    justify-content: center;    color: #1f2438;}
+.footer .socialIcons .iconcircle:hover{  color: #fff;  background: #20a637;  cursor: pointer;}
+.footer .socialIcons ul{    display: flex;    align-items: center;    column-gap: 15px;}
+/* Language change button  */
+.LangChangebtn {   margin-top: 35px;}
+.LangChangebtn .dropdown .btn-lang {  border: 1px solid #fff;  background: none;  padding: 13px 18px;}
+.LangChangebtn .dropdown-toggle::after {  border: none;}
+.LangChangebtn .btn-lang .iconDown{  font-size: 15px;  margin-left: 8px;}
+.LangChangebtn .btn-lang.btn:hover{  background: var(--green);}
+.LangChangebtn .dropdown-menu {  min-width: auto;  width: 137px;  padding: 12px 0px;  background: #1f2438;  border: 1px solid #fff;}
+.LangChangebtn .dropdown-menu  a{ display: flex; flex-direction: column; padding: 10px 15px;  color: #fff;  border: 1px solid transparent;}
+.LangChangebtn .dropdown-menu  a:hover {  color: #fff;  background: var(--green);  border: 1px solid #fff;}
+
+/* Copyright part */
+.text_copyright {  height: 100%;  display: flex;  align-items: flex-end;  justify-content: end;}
+.text_copyright .copyrightLinks{  display: flex;  align-items: center;column-gap: 24px;color: #fff;font-size: 14px;}
+.text_copyright .copyrightLinks a{  color: #fff;  text-decoration: underline !important;}
+.text_copyright .copyrightLinks a:hover{  color: #20a637;}
+/* Foogter Bottom Text */
+.footer hr{  color: #fff;}
+.footer .footer_line p span{  font-size: 13px;  color: #ccccccc4;}
+
+@media screen and (max-width:991px){
+    .footer .socialIcons{
+        justify-content: start;
+    }
+    .appLinks{
+        justify-content: start;
+    }
+    .LangChangebtn {
+        margin-top: 20px;
+        display: flex;
+        justify-content: start;margin-bottom: 20px;
+    }
+    .text_copyright .copyrightLinks{
+        padding: 0;
+     }
+     .footer .socialIcons ul {      
+        padding: 0;
+    }
+    .text_copyright{
+        justify-content: start;
+    }
+}
+
+
+@media screen and (max-width:576px){
+    .footer .socialIcons{
+        justify-content: center;
+    }
+    
+    .appLinks .app-store-button span, .appLinks .google-play-button span {
+        font-size: 15px;        
+    }
+    .LangChangebtn {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;margin-bottom: 20px;
+    }
+    
+    .appLinks{
+        justify-content: center;
+    }
+}

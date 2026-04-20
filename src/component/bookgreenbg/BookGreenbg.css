@@ -1,0 +1,18 @@
+.bookgreenSec{
+    padding: 40px 0px;
+}
+
+.bookgreenSec h5{
+font-weight: 600;
+margin: 20px 0px;
+}
+
+.bookgreenSec .btn-reviews{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bookgreenSec .btn-green{
+    margin-top: 25px;
+}

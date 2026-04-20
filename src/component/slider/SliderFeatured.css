@@ -1,0 +1,19 @@
+.greenbg .customer_comments{
+    min-height: 150px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.greenbg .customer_comments p span{
+    font-size: 16px;
+}
+
+.greenbg .customername{
+    font-weight: 700;
+    text-align: left;
+    font-size: 15px!important ;
+}
+
+.sliderfeaturedSec .swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled{
+opacity: 0!important ;
+}

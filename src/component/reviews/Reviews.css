@@ -1,0 +1,13 @@
+.reviewsSec .headingreviews{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.reviewsSec h4{
+line-height: 32px;
+font-weight: 600;
+}
+
+.reviewsSec .trustedstars{
+    margin: 40px 0px;
+}

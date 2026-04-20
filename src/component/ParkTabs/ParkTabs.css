@@ -1,0 +1,82 @@
+
+.parkingSpaceSec {
+    padding: 40px 40px;
+    border: 8px solid #ccc;
+    border-radius: 16px;
+    margin-top: 30px;
+}
+
+.parkingSpaceSec .nav-link{padding: 10px 20px;    display: flex;    align-items: center;    justify-content: center;    flex: 1 1 50%;   color: var(--black);}
+.parkingSpaceSec .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{  background-color:  var(--green-light) !important;    border: none!important;  }
+.parkingSpaceSec .nav-tabs .nav-link {    border: none;    background: var(--tab-bg);    font-size: 15px;    font-weight: 600;}
+.parkingSpaceSec .nav-tabs .nav-link span{       display: flex;    align-items: center;    justify-content: center;}
+
+.parkingSpaceSec .nav-tabs .nav-link:hover{    color: #000;}
+.parkingSpaceSec .nav-tabs .nav-link span .icon_plane {    color: var(--green);    margin-right: 6px;    font-size: 15px;}
+.parkingSpaceSec .tabContent{    padding: 10px 0px;}
+.parkingSpaceSec .loc_Searchbar {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    position: relative;
+    
+}
+
+.parkingSpaceSec .loc_Searchbar .input_container p{    margin-bottom:0px;}
+
+.parkingSpaceSec .loc_Searchbar .input_container p span{    font-size: 13px;    color: var(--green);    font-weight: 500;  }
+.parkingSpaceSec .loc_Searchbar .input_container input.search{    width: 100%;    border: none;    padding-bottom: 5px; background: transparent;}
+.parkingSpaceSec .loc_Searchbar .input_container input.search::placeholder{    font-weight: 500;    color: #000;    font-size: 15px}
+.parkingSpaceSec .loc_Searchbar .input_container input.search:focus-visible{outline: none;}
+.parkingSpaceSec .loc_Searchbar .input_container input.search:focus::placeholder{    color: var(--grey-search);}
+.parkingSpaceSec .loc_Searchbar .input_container .search_icon {
+    position: absolute;
+    top: 15px;
+    transform: translateY(30%);
+    right: 20px;
+    font-size: 20px;
+    color: var(--grey-search);
+    z-index: -1;
+}
+.parkingSpaceSec .loc_Searchbar .input_container .dropdown_icon {
+    position: absolute;
+    top: 6px;
+    transform: translateY(50%);
+    right: -10px;
+    font-size: 20px;
+    color: #000;
+}
+
+.parkingSpaceSec img{
+    object-fit: cover;
+    max-width: 100%;
+}
+
+.arrow_right{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-size: 20px;
+    height: 75px;
+    color: var(--grey);
+}
+
+.detailsoftime{
+    column-gap: 8px;
+}
+
+.loc_Searchbar.dateandtime_picker {
+    width: 45%;
+  
+    /* padding: 0px 30px; */
+    padding-right: 30px;
+}
+
+.parkingSpaceSec .btn-green{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 0;
+
+}

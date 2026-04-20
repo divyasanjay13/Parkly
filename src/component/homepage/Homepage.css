@@ -1,0 +1,172 @@
+.sliderSec {
+  padding: 30px 20px;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+.sliderSec .customstarbox {
+  position: relative;
+}
+
+.sliderpart {
+  margin-left: 10px;
+}
+.fullbackgroundtwo .background_image {
+  background: url("/src/assets/images/fullbg2.jpg");
+}
+
+@media screen and (max-width:991px){
+  .parkingSpaceSec{
+    margin-bottom: 24px;
+  }
+  .function_colSec .col1 {
+    margin-bottom: 38px;
+}
+}
+
+@media screen and (max-width: 767px) {
+  .BannerSec {
+    padding: 43px 0px;
+  }
+  .parkspaceList .func_list {
+    display: none;
+  }
+  .parkspaceList h1 {
+    margin-bottom: 16px;
+  }
+  .parkingSpaceSec .loc_Searchbar .input_container p span {
+    font-size: 13px;
+  }
+  .parkingSpaceSec {
+    padding: 32px 17px;
+    border: 2px solid #ccc;
+    border-radius: 16px;
+    margin-top: 30px;    
+  }
+
+  .parkingSpaceSec .loc_Searchbar .input_container input.search::placeholder {
+    font-size: 15px;
+  }
+  .dPicker input {
+    font-size: 15px;
+  }
+  .dropdown_icon {
+    font-size: 20px;
+    top: -3px;
+    right: -18px;
+    z-index: 0;
+  }
+  .dPicker .react-datepicker__day-name, .react-datepicker__day, .react-datepicker__time-name{
+    width: 20px;
+  }
+  .dPicker .react-datepicker{
+    height: 310px;
+  }
+  .dPicker .react-datepicker__day--selected {  
+    width: 25px;
+    height: 25px;
+    text-align: center;   
+}
+.dPicker .react-datepicker__navigation-icon::before{
+    width: 10px;
+    height: 10px;
+}
+.dPicker h2.react-datepicker__current-month{
+    font-size: 18px !important;
+}
+.dPicker .react-datepicker__month{
+    margin:5px;
+}
+.TimePickerblock .headtime p {  
+    font-size: 13px !important;
+}
+.TimePickerblock .timepicker_dropdown .time-picker {
+    padding: 2px;
+       font-size: 13px;  
+}
+.TimePickerblock  .done-button {
+    padding: 6px;   
+    font-size: 13px;
+}
+.TimePickerblock{
+    padding: 10px;
+}
+.parkingSpaceSec .loc_Searchbar {
+    padding: 5px 7px;
+}
+.detailsoftime {
+flex-direction: column;
+}
+.loc_Searchbar.dateandtime_picker{
+    width: 100%;
+}
+.arrow_right{
+    display: none;
+}
+a.btn-green{
+    font-size: 16px !important;
+}
+.customstarbox {
+    flex-direction: column;
+}
+.trustedblock{
+    border: none !important;
+}
+.sliderSec{
+    padding: 0px 21px;
+}
+.icon_star svg {
+    font-size: 16px;
+}
+.icon_box {
+    width: 26px;
+    height: 26px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+.function_colSec{
+    padding: 40px 0px !important;
+}
+
+.image_part .image img{
+    max-width: 100%;
+    width: 80px !important;
+    height: 80px !important;
+    height: 100%;
+}
+.function_colhead {
+    margin-bottom: 24px;
+}
+
+.downloadSec{
+    padding: 0px !important;
+}
+.downloadSec .downloadapp_content{
+    padding: 0px 10px !important;
+}
+.slider_review {
+  font-size: 14px;
+  
+}
+
+
+}
+
+@media screen and (max-width: 576px){
+  a.btn-green {
+    font-size: 14px !important;
+}
+  .parkingSpaceSec .loc_Searchbar .input_container p span {
+    font-size: 12px;
+  }
+  .parkingSpaceSec .loc_Searchbar .input_container input.search::placeholder {
+    font-size: 14px;
+  }
+  .dPicker input {
+    font-size: 13px;
+  }
+  .dropdown_icon {
+    font-size: 16px;
+    top: 3px;
+    right: -18px;
+  }
+}

@@ -1,0 +1,52 @@
+
+.nextdestinationSec{
+    margin-bottom: 60px;
+}
+.nextdestinationSec  h3{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.nextdestinationSec .grid-layoutfordestination{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+   background: #fff ;
+   z-index: 3;
+   position: relative;
+}
+
+.nextdestinationSec .namefordestination h5{
+font-weight: 600;
+color: var(--black);
+text-align: center;
+margin: 20px 0px;
+}
+
+.nextdestinationSec .greenbg{
+    position:  relative;
+}
+
+.nextdestinationSec .greenbg::before{
+    content: "";
+    width: 1000px ;
+    max-width: 100%;
+    position: absolute;
+    height: 20px;
+    background: var(--highlights);
+    z-index: 0;
+    top: 60%;
+    left: 10%;
+}
+
+.nextdestinationSec .grid-layoutfordestination:hover{
+    box-shadow: 1px 1px 5px 1px var(--boxshadow-color);
+}
+
+@media screen and (max-width:991px){
+    .nextdestinationSec .greenbg::before {
+        display: none;
+      }
+}
+
+

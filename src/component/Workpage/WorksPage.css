@@ -1,0 +1,14 @@
+.banner_reverse .BannerSec .row{
+flex-direction: row-reverse;
+}
+
+.banner_reverse .BannerSec .func_list{
+    display: none;
+}
+
+.banner_reverse .BannerSec img {    
+    max-height: 100%;
+    height: 511px;
+    object-fit: cover;
+    
+}

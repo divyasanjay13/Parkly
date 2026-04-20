@@ -1,0 +1,28 @@
+.featuredSec{
+    padding: 40px 0px;
+}
+.featuredSec h5{
+    font-weight: 700;
+    line-height: 22px;
+}
+.featuredSec p{
+    font-weight: 500;
+    line-height: 27px;
+}
+
+.featuredSec .btn-green{
+    padding: 10px 25px;
+}
+
+@media screen and (max-width:576px){
+    .featuredSec {
+        padding: 0px;
+    }
+    .imageslogo_featured{
+        flex-direction: column;
+        align-items: center;
+    }
+    .imageslogo_featured img{
+        margin-bottom: 15px;
+    }
+}

@@ -1,0 +1,9 @@
+
+.downloadSec .downloadapp_content{    padding: 20px 10px;}
+.downloadSec .downloadapp_content h3{    font-weight: 600;    position: relative;    margin-bottom: 40px;}
+.downloadSec .downloadapp_content h3::before {    border-bottom: 4px solid #00b303;    bottom: -10px;    content: " ";    position: absolute;    width: 60px;}
+.downloadSec .downloadapp_content p{    font-weight: 400;    color: var(--grey);  padding-bottom: 24px;}
+.downloadSec .downloadapp_content .download_links .appLinks{    justify-content: left;}
+.downloadSec .downloadapp_content .download_links .appLinks .google-play-button,.downloadSec .downloadapp_content .download_links .appLinks .app-store-button{    background: #000;}
+.downloadSec .downloadapp_content .download_links .appLinks .store-buttons{    color: #fff;} 
+.downloadSec .downloadapp_content .download_links .appLinks .app-store-button  img{    filter: invert(2);}
